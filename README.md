@@ -47,7 +47,7 @@ Si por algún motivo técnico o de rendimiento no pueden visualizar el tablero, 
 **Preview**
 ![Dashboard Preview1](https://github.com/juanbonillab/CrimeSP/blob/main/Screenshot%20Portada%20Crime%20SP-min.png)
 
-![Dashboard Preview2](https://github.com/juanbonillab/CrimeSP/blob/main/Screenshot%20Bookmark%20Crime%20SP.png)
+![Dashboard Preview2](https://github.com/juanbonillab/CrimeSP/blob/main/Screenshot%20Bookmark%20Crime%20SP-min.png)
 
 ![Dashboard Preview3](https://github.com/juanbonillab/CrimeSP/blob/main/Screenshot%20data.png)
 
