@@ -49,7 +49,7 @@ Si por algún motivo técnico o de rendimiento no pueden visualizar el tablero, 
 
 ![Dashboard Preview2](https://github.com/juanbonillab/CrimeSP/blob/main/Screenshot%20Bookmark%20Crime%20SP-min.png)
 
-![Dashboard Preview3](https://github.com/juanbonillab/CrimeSP/blob/main/Screenshot%20data.png)
+![Dashboard Preview3](https://github.com/juanbonillab/CrimeSP/blob/main/Screenshot%20data-min.png)
 
 
 ---
