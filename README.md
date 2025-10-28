@@ -27,7 +27,7 @@ Estas dimensiones permiten identificar patrones, tendencias y diferencias releva
 El dashboard cuenta con múltiples botones y bookmarks que facilitan la navegación entre páginas y categorías.  
 Para utilizarlos correctamente en Power BI Desktop, **recordá mantener presionada la tecla `Ctrl` mientras hacés clic** sobre cada botón.  
 
-Además, incluí un **botón de ayuda**, que redirige a mi perfil de **[LinkedIn](hwww.linkedin.com/in/juanbonillab)** en caso de que deseen contactarme o conocer más sobre el proyecto.  
+Además, incluí un **botón de ayuda**, que redirige a mi perfil de **[LinkedIn](https://www.linkedin.com/in/juanbonillab)** en caso de que deseen contactarme o conocer más sobre el proyecto.  
 
 ---
 
