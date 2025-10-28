@@ -44,6 +44,10 @@ Además, incluí un **botón de ayuda**, que redirige a mi perfil de **[LinkedIn
 
 Si por algún motivo técnico o de rendimiento no pueden visualizar el tablero, agregué **capturas de pantalla** con las diferentes secciones del proyecto final.  
 
+**Preview**
+![Dashboard Preview1](https://github.com/juanbonillab/CrimeSP/blob/main/Screenshot%20Portada%20Crime%20SP.png)
+
+
 ---
 
 *Gracias por visitar este repositorio y por tomarte el tiempo de explorar mi trabajo.*  
